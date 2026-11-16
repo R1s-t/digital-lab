@@ -1,0 +1,10 @@
+# 仿真产物
+*.vvp
+*.vcd
+
+# Verilator 生成中间文件和可执行文件
+obj_dir/
+
+# 编辑器备份
+*.save
+*~
